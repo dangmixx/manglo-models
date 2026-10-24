@@ -1,6 +1,6 @@
 # Manglo AI models
 
-On-device models that the [Manglo](https://play.google.com/store/apps/details?id=com.imangostudio.manglo) photo editor downloads the first time a feature needs them. Photos never leave the phone; these files are only downloaded.
+On-device models that the Manglo photo editor (Android) downloads the first time a feature needs them. Photos never leave the phone; these files are only downloaded.
 
 The files are in the [releases](https://github.com/dangmixx/manglo-models/releases). The app checks each file's size and SHA-256 before using it.
 
